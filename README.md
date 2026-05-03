@@ -1,6 +1,5 @@
 # 🏋️‍♂️ FitLife Gym — Implantación de Sistemas Operativos
-### Proyecto Intermodular ASIR · Módulo 0369
-
+### Proyecto Intermodular ASIR 
 ---
 
 ## 📌 Descripción
